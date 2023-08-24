@@ -4,7 +4,7 @@
 - 🤨 I’m thinking of learning TypeScript, React Native and Firebase
 - 🌱 Hobbies: Gardening, Badminton, Chess. I am currently growing tomatoes and green onions and am excited about expanding my garden!
 - 😄 Pronouns: she/her
-- 📫 How to reach me: ...
+
 <!--
 **kathyye15/kathyye15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: ...
 -->
 ### Tech Stack
 
@@ -76,6 +77,7 @@ Here are some ideas to get you started:
       <td>
         <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
         <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
+        <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
       </td>
     </tr>
   </tbody>
