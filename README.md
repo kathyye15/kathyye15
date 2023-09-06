@@ -1,5 +1,5 @@
 ### Hi, I'm Kathy 👋
-- 🔭 I’m currently working an app called Picks
+- 🔭 I’m currently working my app called Picks
 - ⚡ I’m currently learning Next.js
 - 🤨 I’m thinking of learning TypeScript, React Native and Firebase
 - 🌱 Hobbies: Gardening, Badminton, Chess. I am currently growing tomatoes and green onions and am excited about expanding my garden!
