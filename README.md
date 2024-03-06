@@ -1,7 +1,7 @@
 ### Hi, I'm Kathy 👋
 - 🔭 I’m currently working my app called Picks
-- ⚡ I’m currently learning Next.js
-- 🤨 I’m thinking of learning TypeScript, React Native and Firebase
+- ⚡ I’m currently learning TypeScript and Firebase
+- 🤨 I’m thinking of learning React Native
 - 🌱 Hobbies: Gardening, Badminton, Chess. I am currently growing tomatoes and green onions and am excited about expanding my garden!
 - 😄 Pronouns: she/her
 
@@ -59,6 +59,12 @@ Here are some ideas to get you started:
         <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <th>Authentication</th>
+      <td>
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
       </td>
     </tr>
     <tr>
