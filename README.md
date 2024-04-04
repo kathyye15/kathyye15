@@ -47,6 +47,7 @@ Here are some ideas to get you started:
         <img alt="mySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img alt="postgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img alt="Sanity.io" src="https://img.shields.io/badge/Sanity.io-%231A202C.svg?style=for-the-badge&logo=sanity&logoColor=white"/>
       </td>
     </tr>
     <tr>
