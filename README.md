@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <table align="center">
   <tbody>
     <tr>
-      <th>Frontend Languages</th>
+      <th>Languages</th>
       <td>
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <th>Authentication</th>
+      <th>Authentication & Authorization</th>
       <td>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
       </td>
