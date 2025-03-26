@@ -1,9 +1,4 @@
 ### Hi, I'm Kathy 👋
-- 🔭 I’m currently working my app called Picks
-- ⚡ I’m currently learning TypeScript and Firebase
-- 🤨 I’m thinking of learning React Native
-- 🌱 Hobbies: Gardening, Badminton, Chess. I am currently growing tomatoes and green onions and am excited about expanding my garden!
-- 😄 Pronouns: she/her
 
 <!--
 **kathyye15/kathyye15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
